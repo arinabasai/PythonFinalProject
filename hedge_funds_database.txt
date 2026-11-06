@@ -1,0 +1,33 @@
+"AQR Capital Management" Greenwich US 248897 -0.1 
+"Bridgewater Associates" Westport US 235612 0.0
+"Citadel Investment Group" Chicago US 234679 0.2
+"Millennium Capital Partners" New York US 218000 0.0
+"Renaissance Technologies" East Setauket US 165968 0.3
+"Alphadyne Asset Management" New York US 120723 0.4
+"Balyasny Asset Management" Chicago US 118425 -0.2
+"Fortress Investment Group" New York US 110894 0.3
+"Goldman Sachs Asset Management" New York US 106240 0.3
+"Capula Investment Management LLP" London UK 105951 0.4
+"Ares Management" Los Angeles US 99062 0.2
+"Point72 Asset Management" Stamford US 91332 0.2
+"DE Shaw" New York US 82122 0.1
+"Garda Capital" Minneapolis US 78067 0.4
+"Tenaron Capital Management" New York US 75646 0.0 
+"III Capital" Boca Raton US 73727 0.8
+"Illiott Management" New York US 73511 0.1
+"Field Street Capital Management" New York US 68908 -0.1
+"Two Sigma Investments" New York US 66143 0.1
+"Cerberus Capital Management" New York US 61347 0.1
+"Brevan Howard Asset Management" London UK 58630 2.9
+"Angelo Gordon & Co." New York US 56276 0.2
+"Lighthouse Investment Partners" Palm Beach Gardens US 56235 0.2
+"Element Capital Management" New York US 51768 -0.1
+"Lyxor Asset Management" Paris France 47737 0.2
+"Och-Ziff Capital Management" New York US 45473 0.1
+"Adage Capital Management" Boston US 45471 0.1
+"Viking Global Investors" Greenwich US 42123 0.2
+"Tiger Global Management LLC" New York US 41172 0.1
+"Pine River Capital Management" Minnetonka US 40920 0.2
+"Tudor Investment Corporation" Stamford US 38397 0.0
+"Oaktree Capital Management" Los Angeles US 38397 0.0
+"Bracebridge Capital" Boston US 36808 0.4
